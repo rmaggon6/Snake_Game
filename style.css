@@ -1,0 +1,14 @@
+body {
+    text-align:center;
+    font-family: helvetica;
+    background-color: black;
+    
+  }
+  canvas {
+    border: 5px solid red;
+    
+     
+  }
+  .text{
+color:white;
+  }
